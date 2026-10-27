@@ -154,3 +154,8 @@ See [deployment configuration](docs/devops/configuration/README.md), the
 Keep real environment files, signing keys, provider credentials and storage secrets
 out of Git. See [CONTRIBUTING](CONTRIBUTING.md) for collaboration rules and
 [SECURITY](SECURITY.md) for vulnerability reporting.
+
+
+## Code learning guide
+
+[Read the code walkthrough and interview questions](docs/INTERVIEW_GUIDE.md).
